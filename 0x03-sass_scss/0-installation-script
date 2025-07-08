@@ -1,0 +1,3 @@
+1. Verified that Node.js is installed: node -v
+2. Installed SASS using npm: npm install sass@1.37.4
+3. Confirmed installation: npx sass --version
